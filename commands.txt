@@ -4,3 +4,9 @@ git reset head <file>
 git commit -m ""
 git push [Remote] {branch}          git branch      git remote
 git pull [Remote]           git fetch + gut merge
+git config --global [configuration]
+git config --global --unset [configuration]
+git config -l
+git config --edit
+ssh-keygen -t rsa -b 4096 -C "user.email"
+ssh -T git@github.com
