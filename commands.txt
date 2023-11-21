@@ -3,4 +3,4 @@ git add <file>
 git reset head <file>
 git commit -m ""
 git push [Remote] {branch}          git branch      git remote
-git pull
+git pull [Remote]           git fetch + gut merge
