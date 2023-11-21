@@ -1,4 +1,4 @@
-//By the name of Allah
+//In the name of Allah
 
 #include <iostream>
 using namespace std;
