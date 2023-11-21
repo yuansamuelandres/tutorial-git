@@ -1,6 +1,6 @@
 git status
 git add <file>
 git reset head <file>
-git commit
-git push []
+git commit -m ""
+git push [Remote] {branch}          git branch      git remote
 git pull
